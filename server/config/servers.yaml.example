@@ -1,0 +1,4 @@
+- provider: "provider1"
+  url: ""
+- provider: "provider2"
+  url: ""
